@@ -230,7 +230,7 @@ In other hand we have classes.
 When we want to delete or change some class we can push alt+f7 in webstorm and find all places where this class is used.
 Ide helps with renaming and other sugar.
 
-**But you may ask me. **
+**But you may ask me.**
 
 Wait, but what should i do if i want global state for several components?
 Answer is easy!
