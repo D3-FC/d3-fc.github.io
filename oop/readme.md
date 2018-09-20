@@ -1,4 +1,4 @@
-#9 Reasons Why
+# 9 Reasons Why
 
 
 In this article I am going to ask some questions that could possibly arise during development process.
@@ -165,9 +165,9 @@ And this is happiness for PM! Profit!
 
 We have 100% covered UI kit of our project! Absolutely free!
 
-###If you like the way i am describing lets continue.
+### If you like the way i am describing lets continue.
 
-####What can we do more to have laconic and easy readable and understandable code?
+#### What can we do more to have laconic and easy readable and understandable code?
 We can use OOP!
 Classes give us structured and predictable code. They helps us keep logic in proper predictable place.
 Classes are documentation of domain logic. From class (for example: User) we can know the fields and behaviour of user without any documentation.
@@ -188,7 +188,7 @@ items.forEach((item)=>{
 })
 ```
 
-#####And what helps us write good OOP code in JavaSript?
+##### And what helps us write good OOP code in JavaSript?
 - Of course TypeScript!
 
 How can it help us?
@@ -207,7 +207,7 @@ On other hand we have typescript. TypeScript has compiler that throws errors on 
 So we can say compilation is like free testing out of the box!
 
 So here we are. 
-####The main question
+#### The main question
 
 The best practice by vuejs documentation for big projects is VUEX.
 I would say it's far from truth.
@@ -226,7 +226,7 @@ In other hand we have classes.
 When we want to delete or change some class we can push alt+f7 in webstorm and find all places where this class is used.
 Ide helps with renaming and other sugar.
 
-#####But you may ask me. 
+##### But you may ask me. 
 Wait, but what should I do if I want global state for several components?
 Answer is easy!
 we can make separated store like:
