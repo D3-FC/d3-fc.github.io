@@ -168,6 +168,7 @@ We have 100% covered UI kit of our project! Absolutely free!
 ###If you like the way i am describing lets continue.
 
 ####What can we do more to have laconic and easy readable and understandable code?
+
 We can use OOP!
 Classes give us structured and predictable code. They helps us keep login in proper predictable place.
 Classes are documentation of domain logic. From class (for example: User) we can know the fields and behaviour of user without any documentation.
@@ -189,6 +190,7 @@ items.forEech((item)=>{
 ```
 
 #####And what helps us write good OOP code in JavaSript?
+
 - Of course TypeScript!
 
 How can it help us?
@@ -207,6 +209,7 @@ On other hand we have typescript. TypeScript has compiler that throws errors on 
 So we can say compilation is like free testing out of the box!
 
 So here we are. 
+
 ####The main question
 
 The best practice by vuejs documentation for big projects is VUEX.
@@ -227,6 +230,7 @@ When we want to delete or change some class we can push alt+f7 in webstorm and f
 Ide helps with renaming and other sugar.
 
 #####But you may ask me. 
+
 Wait, but what should i do if i want global state for several components?
 Answer is easy!
 we can make separated store like:
