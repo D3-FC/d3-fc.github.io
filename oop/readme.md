@@ -165,7 +165,7 @@ And this is happiness for PM! Profit!
 
 We have 100% covered UI kit of our project! Absolutely free!
 
-###If you like the way i am describing lets continue.
+*If you like the way i am describing lets continue.*
 
 ####What can we do more to have laconic and easy readable and understandable code?
 
