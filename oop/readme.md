@@ -167,7 +167,7 @@ We have 100% covered UI kit of our project! Absolutely free!
 
 *If you like the way i am describing lets continue.*
 
-####What can we do more to have laconic and easy readable and understandable code?
+**What can we do more to have laconic and easy readable and understandable code?**
 
 We can use OOP!
 Classes give us structured and predictable code. They helps us keep login in proper predictable place.
